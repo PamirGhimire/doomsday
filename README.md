@@ -18,5 +18,8 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 * [NEW YORK SUBMERGED: New Yorkers vent their fury as subways flood](https://www.youtube.com/watch?v=bi8FEItN6lY)
 * [Will climate change threaten supply of natural rubber](https://www.youtube.com/watch?v=p_9XvHBb3nw)
 
+<br>[08-07-2021]
+* [NASA's AIRS Tracks Record-Breaking Heat Wave in Pacific Northwest](https://climate.nasa.gov/news/3095/nasas-airs-tracks-record-breaking-heat-wave-in-pacific-northwest/)
+
 <br>[06-07-2021]
 * [Technology costs for energy transition may decline faster than anyone anticipates](https://www.pnas.org/content/118/27/e1917165118)
