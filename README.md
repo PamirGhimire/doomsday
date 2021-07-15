@@ -2,6 +2,7 @@
 Collection of stories about climate change, dates in format dd-mm-yyyy, order is reverse chronological
 
 <br>![Oil Oil Glug Glug](images/oilOilGlugGlug.png | width=480)
+<img src="images/oilOilGlugGlug.png" width="320" height="240">
 
 <br>[15-07-2021]
 * [Flooding in western parts of Germany](https://www.youtube.com/watch?v=H66dq54R9qQ)
