@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[16-07-2-21]
+* [Germany floods: At least 93 dead and hundreds unaccounted for](https://www.bbc.com/news/world-europe-57858829)
+
 <br>[15-07-2021]
 * [Flooding in western parts of Germany](https://www.youtube.com/watch?v=H66dq54R9qQ)
 * [Several cities in west of Germany flooded](https://www.reddit.com/r/europe/comments/okpxsc/atleast_20_dead_in_flash_floods_in_germany/)
