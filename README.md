@@ -13,6 +13,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 * [Verviers, Belgium flooding footage](https://www.reddit.com/r/europe/comments/okp2ia/apocalypse_in_verviers_this_morning/)
 * [The Fossil Fuel Industry Wants You to Think It’s Solving Climate Change](https://www.youtube.com/watch?v=dVHx0_6tNDM)
 
+<br>[14-07-2021]
+* [Southeast Amazonia is no longer a carbon sink](https://www.nature.com/articles/d41586-021-01871-6?fbclid=IwAR1lWnOZe4WbxPRwCU0Ilg6YU5XlGPb0j43dotxFIfTB_19fT8WFuS7NTTM)
+
 <br>[11-07-2021]
 * [Wildfires-rage-in-russia-spain-and-the-us-amid-high-temperatures](https://www.euronews.com/video/2021/07/10/wildfires-rage-in-russia-spain-and-the-us-amid-high-temperatures)
 * [Fires after California heat wave](https://www.youtube.com/watch?v=jPDahkCBP9s)
