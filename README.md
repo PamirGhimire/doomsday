@@ -9,6 +9,7 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 <br>[26-07-2021]
 * [Evacuations ordered after two California wildfires converge into one](https://www.reuters.com/world/us/threat-lightning-storms-add-struggle-contain-large-california-fire-2021-07-25/)
 * [Thunderstorms cause flash flooding in London, submerging roads and some train stations](https://edition.cnn.com/2021/07/25/weather/uk-london-floods-transport/index.html)
+* [Fast-spreading blazes destroy 20,000 hectares of forest and force 1,500 people to be evacuated from homes, unprecedented wildfires in Sardinia](https://www.theguardian.com/world/2021/jul/26/firefighters-battle-wildfires-raging-across-south-west-sardinia)
 
 <br>[24-07-2021]
 * [G20 ministers fail to agree tougher climate goals](https://www.dw.com/en/g20-ministers-fail-to-agree-tougher-climate-goals/a-58620631)
