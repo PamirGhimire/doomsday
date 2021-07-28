@@ -20,10 +20,6 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 * [China Deadly flooding in Henan](https://www.dw.com/en/china-deadly-flooding-in-henan-in-pictures/g-58584188)
 * [A new wave of "tropical heat" comes to Serbia](https://www.b92.net/eng/news/society.php?yyyy=2021&mm=07&dd=22&nav_id=111326)
 
-<br>[21-07-2021]
-* [The Amazon Now Emits More Carbon Than it Absorbs](https://time.com/6082313/amazon-carbon-tipping-point/)
-* [Nature paper reports South-east Amazon is a carbon source](https://www.nature.com/articles/s41586-021-03629-6)
-
 <br>[19-07-2021]
 * [Raging Wildfires Sweep Across Siberia, Shrouding Region In Smoke](https://www.rferl.org/a/russia-wildfires-siberia/31365949.html)
 
@@ -39,6 +35,8 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <br>[14-07-2021]
 * [Southeast Amazonia is no longer a carbon sink](https://www.nature.com/articles/d41586-021-01871-6?fbclid=IwAR1lWnOZe4WbxPRwCU0Ilg6YU5XlGPb0j43dotxFIfTB_19fT8WFuS7NTTM)
+* [The Amazon Now Emits More Carbon Than it Absorbs](https://time.com/6082313/amazon-carbon-tipping-point/)
+* [Nature paper reports South-east Amazon is a carbon source](https://www.nature.com/articles/s41586-021-03629-6)
 
 <br>[11-07-2021]
 * [Wildfires-rage-in-russia-spain-and-the-us-amid-high-temperatures](https://www.euronews.com/video/2021/07/10/wildfires-rage-in-russia-spain-and-the-us-amid-high-temperatures)
