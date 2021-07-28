@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[28-07-2021]
+* [Climate tipping points are now imminent, scientists warn](https://www.dw.com/en/climate-tipping-points-are-now-imminent-scientists-warn/a-58665256)
+
 <br>[24-07-2021]
 * [G20 ministers fail to agree tougher climate goals](https://www.dw.com/en/g20-ministers-fail-to-agree-tougher-climate-goals/a-58620631)
 
