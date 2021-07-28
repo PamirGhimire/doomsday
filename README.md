@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[24-07-2021]
+* [G20 ministers fail to agree tougher climate goals](https://www.dw.com/en/g20-ministers-fail-to-agree-tougher-climate-goals/a-58620631)
+
 <br>[22-07-2021]
 * [Deadly flooding paralyzes Henan province in China](https://www.youtube.com/watch?v=O0qd5UTDa-Q)
 * [China flood terror as train carriage submerged](https://www.bbc.com/news/world-asia-china-57920412)
