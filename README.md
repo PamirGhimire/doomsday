@@ -18,6 +18,10 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 * [China Deadly flooding in Henan](https://www.dw.com/en/china-deadly-flooding-in-henan-in-pictures/g-58584188)
 * [A new wave of "tropical heat" comes to Serbia](https://www.b92.net/eng/news/society.php?yyyy=2021&mm=07&dd=22&nav_id=111326)
 
+<br>[21-07-2021]
+* [The Amazon Now Emits More Carbon Than it Absorbs](https://time.com/6082313/amazon-carbon-tipping-point/)
+* [Nature paper reports South-east Amazon is a carbon source](https://www.nature.com/articles/s41586-021-03629-6)
+
 <br>[19-07-2021]
 * [Raging Wildfires Sweep Across Siberia, Shrouding Region In Smoke](https://www.rferl.org/a/russia-wildfires-siberia/31365949.html)
 
