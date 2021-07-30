@@ -53,4 +53,4 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 * [Technology costs for energy transition may decline faster than anyone anticipates](https://www.pnas.org/content/118/27/e1917165118)
 
 <br>[21-09-2020]
-^ [World's richest 1% cause double CO2 emissions of poorest 50%, says Oxfam](https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam)
+* [World's richest 1% cause double CO2 emissions of poorest 50%, says Oxfam](https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam)
