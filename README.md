@@ -54,3 +54,6 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <br>[21-09-2020]
 * [World's richest 1% cause double CO2 emissions of poorest 50%, says Oxfam](https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam)
+
+<br>[14-10-2013]
+* [Carbon emissions by income - richest billion responsible for half of all emissionsl](https://www.youtube.com/watch?v=grZSxoLPqXI&t=857s)
