@@ -3,6 +3,10 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[06-08-2021]
+* [Percentage of the global population at risk from flooding has risen by almost a quarter since the year 2000](https://www.bbc.com/news/science-environment-58087479)
+* [COP26 : Leaders from 196 countries are meeting in Glasgow](https://www.bbc.com/news/science-environment-56901261)
+
 <br>[03-08-2021]
 * [Greece faces worst heat wave in over three decades](https://www.dw.com/en/greece-faces-worst-heat-wave-in-over-three-decades/a-58736438)
 * [Germany mulls manslaughter probe into deadly floods](https://www.dw.com/en/germany-mulls-manslaughter-probe-into-deadly-floods/a-58734289)
