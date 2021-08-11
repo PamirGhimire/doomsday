@@ -3,6 +3,15 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[11-08-2021]
+* [Smoke from Siberia wildfires reaches north pole in historic first](https://www.theguardian.com/world/2021/aug/09/smoke-siberia-wildfires-reaches-north-pole-historic-first)
+* [Wildfire rips through Algeria, killing 42 people including soldiers](https://edition.cnn.com/2021/08/11/africa/algeria-wildfires-deaths-intl-hnk/index.html)
+* [Fores fires are getting worse - analysis](https://www.bbc.com/news/58159451)
+* [Fires Continue to Ravage Greece Amid Europe’s Protracted Heat Wave](https://www.nytimes.com/2021/08/08/world/europe/greece-wildfires.html) 
+
+<br>[09-08-2021]
+* [Drone footage shows devastation after wildfires ravage Turkey's pine forests](https://www.reuters.com/world/middle-east/drone-footage-shows-devastation-after-wildfires-ravage-turkeys-pine-forests-2021-08-09/)
+
 <br>[06-08-2021]
 * [Percentage of the global population at risk from flooding has risen by almost a quarter since the year 2000](https://www.bbc.com/news/science-environment-58087479)
 * [COP26 : Leaders from 196 countries are meeting in Glasgow](https://www.bbc.com/news/science-environment-56901261)
