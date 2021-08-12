@@ -3,6 +3,10 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[12-08-2021]
+* [Siberian wildfires now bigger than all other fires in world combined](https://www.youtube.com/watch?v=pYe6QIBdTKs)
+* [Climate Change: How prepared is Europe for extreme weather? - BBC Newsnight : Analysis](https://www.youtube.com/watch?v=Bdex2J9Q0As)
+
 <br>[11-08-2021]
 * [Smoke from Siberia wildfires reaches north pole in historic first](https://www.theguardian.com/world/2021/aug/09/smoke-siberia-wildfires-reaches-north-pole-historic-first)
 * [Wildfire rips through Algeria, killing 42 people including soldiers](https://edition.cnn.com/2021/08/11/africa/algeria-wildfires-deaths-intl-hnk/index.html)
