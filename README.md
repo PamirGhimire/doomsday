@@ -15,6 +15,7 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <br>[09-08-2021]
 * [Drone footage shows devastation after wildfires ravage Turkey's pine forests](https://www.reuters.com/world/middle-east/drone-footage-shows-devastation-after-wildfires-ravage-turkeys-pine-forests-2021-08-09/)
+* [IPCC climate report: Earth is warmer than it’s been in 125,000 years](https://www.nature.com/articles/d41586-021-02179-1) 
 
 <br>[06-08-2021]
 * [Percentage of the global population at risk from flooding has risen by almost a quarter since the year 2000](https://www.bbc.com/news/science-environment-58087479)
