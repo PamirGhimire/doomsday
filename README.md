@@ -3,6 +3,10 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[14-08-2021]
+* [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.com/news/world-us-canada-58208792)
+* [AR6 Climate Change 2021: The Physical Science Basis](https://www.ipcc.ch/report/ar6/wg1/#FullReport)
+
 <br>[12-08-2021]
 * [Siberian wildfires now bigger than all other fires in world combined](https://www.youtube.com/watch?v=pYe6QIBdTKs)
 * [Climate Change: How prepared is Europe for extreme weather? - BBC Newsnight : Analysis](https://www.youtube.com/watch?v=Bdex2J9Q0As)
