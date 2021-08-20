@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[19-08-2021]
+* [Siberia’s massive wildfires release as much CO2 as Germany does in a year](https://www.nationalgeographic.com/environment/article/siberias-massive-wildfires-are-unlocking-extreme-carbon-pollution)
+
 <br>[14-08-2021]
 * [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.com/news/world-us-canada-58208792)
 * [AR6 Climate Change 2021: The Physical Science Basis](https://www.ipcc.ch/report/ar6/wg1/#FullReport)
