@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[31-08-2021]
+* [Madagascar on the brink of climate change-induced famine](https://www.bbc.com/news/world-africa-58303792)
+
 <br>[19-08-2021]
 * [Siberia’s massive wildfires release as much CO2 as Germany does in a year](https://www.nationalgeographic.com/environment/article/siberias-massive-wildfires-are-unlocking-extreme-carbon-pollution)
 
