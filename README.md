@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[06-09-2021]
+* [Nearly 1 in 3 Americans experienced a weather disaster this summer](https://www.washingtonpost.com/climate-environment/2021/09/04/climate-disaster-hurricane-ida/)
+
 <br>[31-08-2021]
 * [Madagascar on the brink of climate change-induced famine](https://www.bbc.com/news/world-africa-58303792)
 
