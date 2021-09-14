@@ -3,11 +3,13 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[Biden Gives Remarks On Administrations Response To Recent Wildfires](https://www.youtube.com/watch?v=ZGe646kBD6I)
+
 <br>[10-09-2021]
 * [Assessing the U.S. Climate in August 2021](https://www.ncei.noaa.gov/news/national-climate-202108)
 
 <br>[06-09-2021]
-* [Nearly 1 in 3 Americans experienced a weather disaster this summer](https://www.washingtonpost.com/climate-environment/2021/09/04/climate-disaster-hurricane-ida/)
+* [Nearly 1 in 3 Americans experienced a weather disaster this summer](https://www.insider.com/1-in-3-americans-experienced-effects-climate-crisis-this-year-2021-9)
 
 <br>[31-08-2021]
 * [Madagascar on the brink of climate change-induced famine](https://www.bbc.com/news/world-africa-58303792)
