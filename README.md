@@ -3,7 +3,8 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
-<br>[Biden Gives Remarks On Administrations Response To Recent Wildfires](https://www.youtube.com/watch?v=ZGe646kBD6I)
+<br>[14-09-2021]
+* [Biden Gives Remarks On Administrations Response To Recent Wildfires](https://www.youtube.com/watch?v=ZGe646kBD6I)
 
 <br>[10-09-2021]
 * [Assessing the U.S. Climate in August 2021](https://www.ncei.noaa.gov/news/national-climate-202108)
