@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[15-09-2021]
+* [Canada election: Lytton fire puts village at centre of debate](https://www.bbc.com/news/world-us-canada-58549880)
+
 <br>[14-09-2021]
 * [Biden Gives Remarks On Administrations Response To Recent Wildfires](https://www.youtube.com/watch?v=ZGe646kBD6I)
 
