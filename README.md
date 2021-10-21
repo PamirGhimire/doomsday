@@ -3,6 +3,10 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[21-10-2021]
+* [Monsoon floods in India and Nepal](https://www.youtube.com/watch?v=dksfk_9Vv5g)
+* [Countries lobby to dilute the tone of urgency in ICCC report before COP26](https://www.youtube.com/watch?v=dksfk_9Vv5g)
+
 <br>[19-09-2021]
 * [California Firefighters Scramble To Protect Sequoia Groves](https://www.npr.org/2021/09/19/1038806467/california-firefighters-sequoia-groves-national-forest-wildfires)
 
