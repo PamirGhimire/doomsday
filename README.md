@@ -3,6 +3,9 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[30-10-2021]
+* [3 Degree world - likelihood and what it might mean - The Economist](https://www.youtube.com/watch?v=uynhvHZUOOo)
+
 <br>[21-10-2021]
 * [Monsoon floods in India and Nepal](https://www.youtube.com/watch?v=dksfk_9Vv5g)
 * [Countries lobby to dilute the tone of urgency in IPCC report before COP26](https://www.bbc.com/news/science-environment-58982445)
