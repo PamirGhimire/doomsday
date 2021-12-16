@@ -3,6 +3,13 @@ Collection of stories about climate change, dates in format dd-mm-yyyy, order is
 
 <img src="images/oilOilGlugGlug.png" width="320" height="200">
 
+<br>[13-12-2021]
+* [Death toll climbs from one of the costliest tornado events in history](https://www.accuweather.com/en/severe-weather/search-for-the-missing-goes-on-in-kentucky-as-death-toll-rises/1061451)
+* [38 Celsius recorded in the Arctic](https://www.youtube.com/watch?v=JmU_ScB4Ze4)
+
+<br>[29-11-2021]
+* [November 2021 Pacific Northwest floods](https://en.wikipedia.org/wiki/November_2021_Pacific_Northwest_floods)
+
 <br>[31-10-2021]
 * [3 Degree world - likelihood and what it might mean - The Economist](https://www.youtube.com/watch?v=uynhvHZUOOo)
 * [What the world might look like if warming is limited to 1.5C](https://www.youtube.com/watch?v=dJB2WAKqQ34)
